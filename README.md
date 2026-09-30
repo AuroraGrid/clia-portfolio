@@ -11,7 +11,7 @@ My work focuses on open-source intelligence, source verification, political and 
 A source-first public research interface separating adjudicated responsibility, unresolved allegations, association records, institutional failure, and unsupported conspiracy claims.
 
 - Live: https://the-epstein-record.vercel.app/
-- Repository: https://github.com/hr185882-creator/the-epstein-record
+- Repository: https://github.com/AuroraGrid/the-epstein-record
 - Product type: investigative research platform
 - Core capabilities: reviewed claim ledger, reviewed-person profiles, sanitized flight records, document viewer, source controls, evidence-grounded question answering, privacy boundaries, and QA-tested public release
 
@@ -20,7 +20,7 @@ A source-first public research interface separating adjudicated responsibility, 
 A structured evidence-verification and dossier-publication platform for converting large source collections into auditable analytical products.
 
 - Live: https://record-lock-platform.vercel.app/
-- Repository: https://github.com/hr185882-creator/record-lock
+- Repository: https://github.com/AuroraGrid/record-lock
 - Product type: evidence and research architecture
 - Core capabilities: provenance, claim classification, counterarguments, falsifiers, confidence controls, revision conditions, and controlled public releases
 
@@ -29,7 +29,7 @@ A structured evidence-verification and dossier-publication platform for converti
 A source-audited research product examining campaign finance, security assistance, diplomacy, intelligence controversies, and policy friction without collapsing documented influence into unsupported claims of unified control.
 
 - Live: https://youname-it.vercel.app/
-- Repository: https://github.com/hr185882-creator/us-israel-policy-network
+- Repository: https://github.com/AuroraGrid/us-israel-policy-network
 - Product type: geopolitical and policy-analysis publication
 - Core capabilities: evidence labels, institutional analysis, claim ledger, historical cases, official-source register, and interactive filtering
 
@@ -38,7 +38,7 @@ A source-audited research product examining campaign finance, security assistanc
 An editorial portfolio containing public-interest research products and the methodology behind them.
 
 - Live: https://hasan-research-systems.vercel.app/
-- Repository: https://github.com/hr185882-creator/research-decision-systems
+- Repository: https://github.com/AuroraGrid/research-decision-systems
 - Includes: EU Chat Control Monitor and The Russian JFK Dossier
 
 ### AURORA Learning Platform
@@ -46,15 +46,15 @@ An editorial portfolio containing public-interest research products and the meth
 A web-based learning and documentation environment for structured analysis, evidence verification, forecasting discipline, and decision workflows.
 
 - Live: https://auroralearning.manus.space/
-- Repository: https://github.com/hr185882-creator/aurora-learning-platform
+- Repository: https://github.com/AuroraGrid/aurora-learning-platform
 
 ### AURORA GRID OS / GrindWire
 
 A decision-intelligence operating system for evidence verification, adversarial evaluation, constraint-first forecasting, scenario analysis, risk calibration, and auditable decision support.
 
-- Live: https://hr185882-creator.github.io/aurora-grid-grindwire-site/
-- Repository: https://github.com/hr185882-creator/aurora-grid-grindwire-site
-- Canonical v2 architecture: https://github.com/hr185882-creator/aurora-grid-grindwire-site/blob/main/docs/AURORA_GRID_V2_CANONICAL.md
+- Live: https://AuroraGrid.github.io/aurora-grid-grindwire-site/
+- Repository: https://github.com/AuroraGrid/aurora-grid-grindwire-site
+- Canonical v2 architecture: https://github.com/AuroraGrid/aurora-grid-grindwire-site/blob/main/docs/AURORA_GRID_V2_CANONICAL.md
 
 ## Engineering and publication controls
 
@@ -64,8 +64,8 @@ The Epstein Record and RECORD LOCK repositories exclude production corpora, vict
 
 ## Supporting research and systems
 
-- Inflection Point Research: https://github.com/hr185882-creator/inflection-point-research
-- AURORA LIVE / Intel Tripwire: https://github.com/hr185882-creator/intel-tripwire
+- Inflection Point Research: https://github.com/AuroraGrid/inflection-point-research
+- AURORA LIVE / Intel Tripwire: https://github.com/AuroraGrid/intel-tripwire
 - Kristi Noem cabinet-stability forecast: [case study](case-studies/kristi-noem-cabinet-stability-forecast.md)
 - Full project index: [PROJECTS.md](PROJECTS.md)
 - Machine-readable estate registry: [portfolio-registry.yaml](portfolio-registry.yaml)
